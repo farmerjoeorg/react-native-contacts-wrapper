@@ -1,6 +1,6 @@
 {
-  "name": "react-native-contacts-wrapper-with-ios-mailing-addresses",
-  "version": "0.3.0",
+  "name": "react-native-contacts-wrapper-with-labels",
+  "version": "0.4.0",
   "nativePackage": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"

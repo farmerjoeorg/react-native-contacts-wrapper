@@ -1,4 +1,7 @@
-# react-native-contacts-wrapper-with-ios-mailing-addresses
+# react-native-contacts-wrapper
+
+> This project is just a fork of https://github.com/LynxITDigital/react-native-contacts-wrapper with https://github.com/LynxITDigital/react-native-contacts-wrapper/pull/27
+> Please refer to original project for issues/etc.
 
 ![alt tag](https://github.com/LynxITDigital/Screenshots/blob/master/RN%20Contacts%20Wrapper%20example.gif)
 
@@ -17,7 +20,7 @@ Feel free to extend the functionality so it's more useful for everyone - all PRs
 If you have rnpm installed, all you need to do is
 
 ```
-npm install react-native-contacts-wrapper-with-ios-mailing-addresses --save
+npm install react-native-contacts-wrapper --save
 react-native link react-native-contacts-wrapper
 ```
 
@@ -98,7 +101,7 @@ Prevent methods from being called multiple times (on Android).
 An example project can be found in this repo: https://github.com/LynxITDigital/react-native-contacts-wrapper-example/tree/master
 
 ```
-import ContactsWrapper from 'react-native-contacts-wrapper-with-ios-mailing-addresses';
+import ContactsWrapper from 'react-native-contacts-wrapper';
 ...
 if (!this.importingContactInfo) {
   this.importingContactInfo = true;
