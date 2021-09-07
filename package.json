@@ -19,9 +19,7 @@
   "author": {
     "name": "LynxIT Digital"
   },
-  "descriptions": {
-    "name": "This is a simple wrapper for the native iOS and Android Contact Picker UIs"
-  },
+  "description": "This is a simple wrapper for the native iOS and Android Contact Picker UIs",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/LynxITDigital/react-native-contacts-wrapper/issues"
